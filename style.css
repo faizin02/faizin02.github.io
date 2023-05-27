@@ -18,9 +18,9 @@ p {
 .navbar-nav {
     font-family: 'Times New Roman', Times, serif;
 }
-.carousel {
+.carousel-inner {
     border-radius: 6pt;
-    padding-top: 4em;
+    padding-top: 3em;
 }
 .card {
     width: auto;
