@@ -18,7 +18,7 @@ p {
 .navbar-nav {
     font-family: 'Times New Roman', Times, serif;
 }
-.carousel-inner {
+.carousel {
     border-radius: 6pt;
     padding-top: 3em;
 }
